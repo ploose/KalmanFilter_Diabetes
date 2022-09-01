@@ -1,0 +1,8 @@
+filterpy
+simglucose
+datetime
+ipywidgets
+random
+IPython
+numpy
+matplotlib
